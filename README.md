@@ -1,7 +1,3 @@
-Claro! Aqui está um exemplo de descrição para o seu repositório no GitHub, baseado no script que você forneceu:
-
----
-
 ### Manjaro MGR 1.0
 
 **Manjaro MGR 1.0** é um script Bash para gerenciar pacotes no Manjaro Linux, oferecendo uma interface de menu interativa com o `dialog`. Este script facilita a atualização do sistema, instalação e remoção de pacotes, e atualização do Yay (Yet Another Yaourt), uma ferramenta de AUR.
@@ -47,4 +43,3 @@ BY NECROMANCERS-CODE
 
 ---
 
-Se precisar de ajustes ou detalhes adicionais, é só me avisar!
